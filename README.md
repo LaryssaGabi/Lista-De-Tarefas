@@ -18,3 +18,5 @@
 * Listar Tarefas Pendentes: O aplicativo pode listar todas as tarefas pendentes para que os usuários vejam o que precisa ser feito.
 
 * Listar Todas as Tarefas: Os usuários podem listar todas as tarefas, incluindo as concluídas.
+
+O aplicativo oferece uma interface simples no terminal para que os usuários possam interagir facilmente com suas tarefas. É uma ferramenta útil para organizar suas atividades diárias.
