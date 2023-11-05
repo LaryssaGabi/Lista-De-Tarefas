@@ -3,20 +3,21 @@
 <img width="140" alt="image" src="https://github.com/LaryssaGabi/Lista-De-Tarefas/assets/111398446/a8a4a7dd-b5f8-4c16-b034-fa79eb2fb0aa"/>
 </div>
 
-#### Este é um sistema de lista de tarefas simples em Java que permite aos usuários gerenciar suas tarefas diárias. O programa fornece as seguintes funcionalidades:
+## Introdução
+Este é um sistema simples de lista de tarefas em Java que permite aos usuários gerenciar suas tarefas diárias. Com esta aplicação, você pode adicionar, remover, marcar como concluída, desmarcar como concluída, definir datas de vencimento e listar tarefas pendentes ou todas as tarefas. É uma ferramenta útil para organizar suas atividades diárias.
 
-* Adicionar Tarefa: Os usuários podem adicionar novas tarefas, incluindo nome, descrição e data de vencimento opcional. Cada tarefa é automaticamente numerada em ordem.
+## Funcionalidades
+* Adicionar Tarefa: Adicione uma nova tarefa à lista com um nome e uma descrição opcionais. Você também pode definir uma data de vencimento para tarefas importantes.
+* Remover Tarefa: Remova tarefas da lista com base em seu número de identificação.
+* Marcar como Concluída: Marque as tarefas como concluídas para acompanhar seu progresso.
+* Desmarcar como Concluída: Se você cometeu um erro, é fácil desmarcar uma tarefa como concluída.
+* Definir Data de Vencimento: Para tarefas importantes, defina uma data de vencimento para lembrar de concluir a tarefa a tempo.
+* Listar Tarefas Pendentes: Veja todas as tarefas que ainda precisam ser concluídas.
+* Listar Todas as Tarefas: Obtenha uma lista completa de todas as tarefas, incluindo as concluídas.
 
-* Remover Tarefa: Os usuários podem remover tarefas existentes com base no número da tarefa.
+## Pré-requisitos
+Java Development Kit (JDK) instalado em seu sistema.
+Um ambiente de desenvolvimento Java, como o Eclipse ou o IntelliJ IDEA (opcional).
 
-* Marcar como Concluída: As tarefas podem ser marcadas como concluídas para acompanhar seu progresso.
-
-* Desmarcar como Concluída: Os usuários também podem desmarcar tarefas que foram marcadas como concluídas.
-
-* Definir Data de Vencimento: Para tarefas importantes, os usuários podem definir uma data de vencimento.
-
-* Listar Tarefas Pendentes: O aplicativo pode listar todas as tarefas pendentes para que os usuários vejam o que precisa ser feito.
-
-* Listar Todas as Tarefas: Os usuários podem listar todas as tarefas, incluindo as concluídas.
-
-O aplicativo oferece uma interface simples no terminal para que os usuários possam interagir facilmente com suas tarefas. É uma ferramenta útil para organizar suas atividades diárias.
+##Como Usar
+Siga as instruções no terminal para interagir com suas tarefas. Use os números das opções para realizar ações, como adicionar, remover, marcar como concluída, desmarcar como concluída, definir datas de vencimento(não é orbigatorio) e listar tarefas.
