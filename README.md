@@ -1,5 +1,7 @@
 ## Lista de Tarefas
 
+<img width="249" alt="image" src="https://github.com/LaryssaGabi/Lista-De-Tarefas/assets/111398446/edde8c1c-4815-4b6e-819e-cc1f2fc240c5">
+
 #### Este é um sistema de lista de tarefas simples em Java que permite aos usuários gerenciar suas tarefas diárias. O programa fornece as seguintes funcionalidades:
 
 * Adicionar Tarefa: Os usuários podem adicionar novas tarefas, incluindo nome, descrição e data de vencimento opcional. Cada tarefa é automaticamente numerada em ordem.
