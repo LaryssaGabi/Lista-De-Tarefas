@@ -1,18 +1,17 @@
-## Getting Started
+## Lista de Tarefas
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Este é um sistema de lista de tarefas simples em Java que permite aos usuários gerenciar suas tarefas diárias. O aplicativo fornece as seguintes funcionalidades:
 
-## Folder Structure
+* Adicionar Tarefa: Os usuários podem adicionar novas tarefas, incluindo nome, descrição e data de vencimento opcional. Cada tarefa é automaticamente numerada em ordem.
 
-The workspace contains two folders by default, where:
+* Remover Tarefa: Os usuários podem remover tarefas existentes com base no número da tarefa.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+* Marcar como Concluída: As tarefas podem ser marcadas como concluídas para acompanhar seu progresso.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+* Desmarcar como Concluída: Os usuários também podem desmarcar tarefas que foram marcadas como concluídas.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+* Definir Data de Vencimento: Para tarefas importantes, os usuários podem definir uma data de vencimento.
 
-## Dependency Management
+* Listar Tarefas Pendentes: O aplicativo pode listar todas as tarefas pendentes para que os usuários vejam o que precisa ser feito.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+* Listar Todas as Tarefas: Os usuários podem listar todas as tarefas, incluindo as concluídas.
