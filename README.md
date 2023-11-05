@@ -1,7 +1,7 @@
 ## Lista de Tarefas
 <div align="center">
 <img width="257" alt="image" src="https://github.com/LaryssaGabi/Lista-De-Tarefas/assets/111398446/a8a4a7dd-b5f8-4c16-b034-fa79eb2fb0aa"/>
-</div>div>
+</div>
 
 #### Este é um sistema de lista de tarefas simples em Java que permite aos usuários gerenciar suas tarefas diárias. O programa fornece as seguintes funcionalidades:
 
