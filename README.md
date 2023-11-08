@@ -13,8 +13,7 @@ O Sistema de Lista de Tarefas é um programa Java simples que permite aos usuár
 2. [Visão Geral do Código](#visão-geral-do-código)
 3. [Classe Tarefas](#classe-tarefas)
 4. [Classe ListaDeTarefas](#classe-listadetarefas)
-5. [Contribuições](#contribuições)
-6. [Licença](#licença)
+
 
 ## Instruções de Uso
 
